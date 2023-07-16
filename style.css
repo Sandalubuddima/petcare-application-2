@@ -1,0 +1,178 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(56,56,56,1.00) 0%,rgba(85,85,85,1.00) 0.21%,rgba(255,255,255,1.00) 32.54%,rgba(255,253,253,1.00) 64.46%,rgba(88,88,88,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(56,56,56,1.00) 0%,rgba(85,85,85,1.00) 0.21%,rgba(255,255,255,1.00) 32.54%,rgba(255,253,253,1.00) 64.46%,rgba(88,88,88,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(56,56,56,1.00) 0%,rgba(85,85,85,1.00) 0.21%,rgba(255,255,255,1.00) 32.54%,rgba(255,253,253,1.00) 64.46%,rgba(88,88,88,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(56,56,56,1.00) 0.00%,rgba(85,85,85,1.00) 0.21%,rgba(255,255,255,1.00) 32.54%,rgba(255,253,253,1.00) 64.46%,rgba(88,88,88,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(4,4,4,1.00) 0.41%,rgba(172,166,166,1.00) 84.35%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(4,4,4,1.00) 0.41%,rgba(172,166,166,1.00) 84.35%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(4,4,4,1.00) 0.41%,rgba(172,166,166,1.00) 84.35%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(4,4,4,1.00) 0.41%,rgba(172,166,166,1.00) 84.35%,rgba(255,255,255,1.00) 100%);
+    color: #E2DC0B;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #9DED03;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #8EE706;
+}
+#navbarSupportedContent1 .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+    background-color: #60FF42;
+    color: #FFFFFF;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #000000;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #121212;
+    color: #FFFFFF;
+}
+#headingOne1 .mb-0 a {
+}
+#headingOne1 .mb-0 a {
+    color: #FFFFFF;
+}
+#headingTwo1 .mb-0 .collapsed {
+    background-color: #000000;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #000000;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #FFFFFF;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #000000;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #FFFFFF;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #FFFFFF;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #FFFFFF;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(255,255,255,1.00) 100.00%);
+}
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(204,204,204,1.00) 0%,rgba(235,235,235,1.00) 20.93%,rgba(178,178,178,1.00) 82.69%,rgba(163,163,163,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(204,204,204,1.00) 0%,rgba(235,235,235,1.00) 20.93%,rgba(178,178,178,1.00) 82.69%,rgba(163,163,163,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(204,204,204,1.00) 0%,rgba(235,235,235,1.00) 20.93%,rgba(178,178,178,1.00) 82.69%,rgba(163,163,163,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(204,204,204,1.00) 0.00%,rgba(235,235,235,1.00) 20.93%,rgba(178,178,178,1.00) 82.69%,rgba(163,163,163,1.00) 100%);
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 .navbar-nav.mr-auto {
+    color: #000000;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item {
+    color: #000000;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #000000;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #000000;
+}
+#navbarSupportedContent1 .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+    background-color: #313131;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    border-style: none;
+    border-radius: 7px;
+}
+.col-lg-4 .card.col-md-4.col-lg-12 .card-img-top {
+    top: 1cm;
+}
+.col-lg-4 .card.col-md-4.col-lg-12 .card-img-top {
+    top: 5px;
+    bottom: 52px;
+    clear: none;
+    float: none;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #282828;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #272727;
+}
+#headingTwo1 .mb-0 .collapsed {
+    background-color: #282828;
+
+}
+#accordion1 .card #headingThree1 {
+    background-color: #242424;
+}
+.container .text-left.text-uppercase strong {
+    color: #000000;
+    border-radius: 4px;
+    font-style: italic;
+}
+.container form .btn.btn-primary {
+    background-color: #000000;
+    border-color: #000000;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    border-color: #000000;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    border-color: #000000;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    border-color: #000000;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    border-color: #000000;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    border-color: #000000;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    border-color: #000000;
+}
+.container .jumbotron.mt-4 {
+}
+.container .jumbotron.mt-4 {
+    background-image: url(images/pngtree-dark-vector-abstract-background-picture-image_1159556.jpg);
+}
+.container .jumbotron.mt-4 .display-4 {
+    color: #FBFBFB;
+}
+.container .jumbotron.mt-4 .lead {
+    color: #FFFFFF;
+}
+.container .jumbotron.mt-4 .display-4 {
+    color: #FFFFFF;
+}
+.container .jumbotron.mt-4 .display-4.text-uppercase {
+    border-top-color: #E71A1D;
+    color: #FFFFFF;
+}
+.container .jumbotron.mt-4 {
+}
+.card.product-card .card-body .btn.btn-primary {
+    background-color: #000000;
+}
+.category .text-center.mt-3 .btn.btn-primary {
+    background-color: #000000;
+    border-color: #000000;
+}
+.card.product-card .card-body .btn.btn-primary {
+    border-color: #000000;
+}
+.category .text-center.mt-3 .btn.btn-primary {
+}
+.container .row .col-md-6 {
+}
+.col-md-6 .contact-info p {
+}
+.container .row .col-md-6 {
+    background-image: url(images/pngtree-dark-vector-abstract-background-picture-image_1159556.jpg);
+}
+.container .row .col-md-6 {
+    background-image: url(url);
+    background-color: #FFFFFF;
+}
